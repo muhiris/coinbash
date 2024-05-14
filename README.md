@@ -1,5 +1,6 @@
 
 # coinbash
+![npm](https://img.shields.io/npm/v/coinbash) ![npm](https://img.shields.io/npm/dt/coinbash) ![NPM](https://img.shields.io/npm/l/coinbash)
 
 coinbash is a nodejs based command-line tool that allows you to easily fetch cryptocurrency prices.
 
